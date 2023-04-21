@@ -3,4 +3,4 @@ gitdb2==2.0.5
 GitPython==2.1.11
 pytz==2019.1
 smmap2==2.0.5
-sqlparse==0.3.0
+sqlparse==0.4.4
